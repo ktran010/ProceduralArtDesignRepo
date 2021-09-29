@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomizeFace : MonoBehaviour
+public class myRandomizeFace : MonoBehaviour
 {
   public Transform mouth;
   public Transform eye;

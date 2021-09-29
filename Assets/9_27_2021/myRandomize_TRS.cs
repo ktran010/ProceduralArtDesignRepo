@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Randomize_TRS : MonoBehaviour
+public class myRandomize_TRS : MonoBehaviour
 {
   public Vector3 minPosition;
   public Vector3 maxPosition;
