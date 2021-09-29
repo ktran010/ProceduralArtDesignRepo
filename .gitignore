@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/PAD_Module/
+Assets/PAD_Module.meta
 
 # Visual Studio cache directory
 .vs/
