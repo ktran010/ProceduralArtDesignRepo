@@ -88,3 +88,173 @@ C# parse time         : 323ms
 candidates check time : 57ms
 console write time    : 1ms
 
+[api-updater (non-obsolete-error-filter)] 10/6/2021 8:41:22 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 871.5241ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 771ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 8:42:05 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 99.6363ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 190ms
+candidates check time : 65ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 8:51:00 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 132.4801ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 207ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 8:59:20 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 109.9467ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 194ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 9:01:27 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85.3087ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 9:02:32 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 126.0185ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 198ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 9:04:46 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122.3651ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 196ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 9:05:01 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84.4028ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 194ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 9:06:25 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.4197ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 190ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 9:08:08 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.0574ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 190ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 10:11:59 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 99.5338ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 10:47:37 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78.3482ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 10:47:55 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100.6123ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 11:13:24 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93.724ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 197ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 11:13:58 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78.1363ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 11:14:22 AM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93.6583ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 196ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10/6/2021 12:01:14 PM : Starting D:/VAULT/APPZ/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.5239ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 58ms
+console write time    : 0ms
+
