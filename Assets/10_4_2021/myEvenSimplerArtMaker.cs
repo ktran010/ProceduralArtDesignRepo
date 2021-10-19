@@ -13,7 +13,9 @@ public class myEvenSimplerArtMaker : ArtMakerTemplate
 {
     //assign this in the editor
     public GameObject shape;
+    // public GameObject satellite;
     public float numDupes;
+    public float size;
 
     public override void MakeArt()
     {
@@ -28,10 +30,29 @@ public class myEvenSimplerArtMaker : ArtMakerTemplate
             {
                 g.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
             }
+
+            Transform center = g.transform.GetChild(0);
+            center.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
+
+            Transform cube1 = g.transform.GetChild(1);
+            cube1.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
+
+            Transform cube2 = g.transform.GetChild(2);
+            cube2.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
+
+            Transform plane = g.transform.GetChild(3);
+            // Transform plane2 = g.transform.GetChild(4);
+            plane.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
+            // plane2.GetComponent<MeshRenderer>().material.color = plane.GetComponent<MeshRenderer>().material.color;
+
+
+
+
             //a vector * a float returns a vector
             g.transform.localScale = Vector3.one * Random.value;
             //insideUnitSphere returns a random point inside or on a sphere with radius 1.0 (Read Only).
-            g.transform.position = Random.insideUnitSphere;
+            Vector3 position = Random.insideUnitSphere * size;
+            g.transform.position = new Vector3(position.x, position.y, position.z);
             //if we multiply that by 360 we get a random angle for each x,y,z axis from -360 to 360
             g.transform.localEulerAngles = Random.insideUnitSphere * 360;
         }
