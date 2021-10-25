@@ -1,0 +1,138 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1083; Version 2009; 64bit' Language: 'en' Physical Memory: 8078 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\VAULT\APPZ\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Home/Nhi/CUSpring2021/_ATLS4519_PAD/ProceduralArtDesignRepo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54010
+Successfully changed project path to: D:/Home/Nhi/CUSpring2021/_ATLS4519_PAD/ProceduralArtDesignRepo
+D:/Home/Nhi/CUSpring2021/_ATLS4519_PAD/ProceduralArtDesignRepo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path D:/VAULT/APPZ/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Home/Nhi/CUSpring2021/_ATLS4519_PAD/ProceduralArtDesignRepo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     4039 MB
+    Driver:   26.20.100.7000
+Initialize mono
+Mono path[0] = 'D:/VAULT/APPZ/Unity/Editor/Data/Managed'
+Mono path[1] = 'D:/VAULT/APPZ/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/VAULT/APPZ/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/VAULT/APPZ/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001193 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.260 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001194 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1424 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 2.518200 ms (FindLiveObjects: 0.334000 ms CreateObjectMapping: 0.063700 ms MarkObjects: 2.027600 ms  DeleteObjects: 0.090600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/10_25_2021/myGlobArtMaker.cs
+  artifactKey: Guid(8fea65bf93922b74d9084de932f35548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_25_2021/myGlobArtMaker.cs using Guid(8fea65bf93922b74d9084de932f35548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b630c7dc394f838d6424abba5f0bee7d') in 0.061129 seconds
+  Import took 0.063816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.762117 seconds.
+  path: Assets/10_25_2021/myGlobArtMaker.cs
+  artifactKey: Guid(8fea65bf93922b74d9084de932f35548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_25_2021/myGlobArtMaker.cs using Guid(8fea65bf93922b74d9084de932f35548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c08de0b9d6235d4c943694ad664f961') in 0.008001 seconds
+  Import took 0.014730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.420550 seconds.
+  path: Assets/10_20_2021/myGCodeLine.cs
+  artifactKey: Guid(460ce07c084846f4bae7bcaf31c2415d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_20_2021/myGCodeLine.cs using Guid(460ce07c084846f4bae7bcaf31c2415d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a52e3ceff992802d761aa8f4ccb548') in 0.011583 seconds
+  Import took 0.015233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027643 seconds.
+  path: Assets/10_20_2021/myGCodeLine.cs
+  artifactKey: Guid(460ce07c084846f4bae7bcaf31c2415d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_20_2021/myGCodeLine.cs using Guid(460ce07c084846f4bae7bcaf31c2415d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a52e3ceff992802d761aa8f4ccb548') in 0.004565 seconds
+  Import took 0.007569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.560872 seconds.
+  path: Assets/10_20_2021/artMakerGCode.cs
+  artifactKey: Guid(a64125baf8f73ce4fb87daf8e5549f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_20_2021/artMakerGCode.cs using Guid(a64125baf8f73ce4fb87daf8e5549f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a005e050a9a90190681c30da65b61f6') in 0.011940 seconds
+  Import took 0.014631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.548552 seconds.
+  path: Assets/10_4_2021/myEvenSimplerArtMaker2.cs
+  artifactKey: Guid(c8bbe13512ce90848b20e7cfcea33480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_4_2021/myEvenSimplerArtMaker2.cs using Guid(c8bbe13512ce90848b20e7cfcea33480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adc219b68a5a1ca27db4caa1f202caf') in 0.008819 seconds
+  Import took 0.011926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.886002 seconds.
+  path: Assets/10_4_2021/myFruit.cs
+  artifactKey: Guid(1415032a9c998be4b820074f8bceb8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_4_2021/myFruit.cs using Guid(1415032a9c998be4b820074f8bceb8de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c436318a47cee0632eaa4a9acddab25f') in 0.008777 seconds
+  Import took 0.011950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.142916 seconds.
+  path: Assets/10_4_2021/myFruitBasket.cs
+  artifactKey: Guid(3a0211077115426409e1e5179b525019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10_4_2021/myFruitBasket.cs using Guid(3a0211077115426409e1e5179b525019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f804395427a1c9f2f4164ec74dc11e') in 0.012084 seconds
+  Import took 0.016102 seconds .
+
