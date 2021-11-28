@@ -27,11 +27,8 @@ public class myGlobArtMaker : ArtMakerTemplate
     public override void MakeArt()
     {
         base.MakeArt();
-        GameObject manager = Instantiate(globManager);
-        manager.Rebuild();
-
-        //these two lines are identical
-        manager.transform.parent = root.transform;
+        myGlobManager manager = Instantiate(globManager);
+        manager.ReBuild();
         AddToRoot(manager.transform);
     }
 }
